@@ -1,4 +1,4 @@
-# swap-two-numbers-in-c-
+# swap-two-numbers-in-c
 
 Course: BSAS
 
